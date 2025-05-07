@@ -1,0 +1,13 @@
+.primary {
+    color: orange;
+    font-family: 'Courier New';
+    align-items: center;
+}
+
+.fs-xl {
+    font-size: 100px;
+}
+
+.failure {
+    color: red;
+}
