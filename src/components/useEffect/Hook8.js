@@ -4,8 +4,8 @@ function HookCounter() {
     const [count, setCount] = useState(0)
     const [name, setName] = useState(0)
 
-    const [x,setX] = useState(0)
-    const [y,setY] = useState(0)
+    const [x, setX] = useState(0)
+    const [y, setY] = useState(0)
 
 
     useEffect(() => {
