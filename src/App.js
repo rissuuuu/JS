@@ -1,15 +1,12 @@
 import './App.css';
-import HttpGet from './http/HttpGet';
 
 import './components/styles/styles.css'
-import HookArray from './components/HookArray';
+import HookCounter from './components/useEffect/Hook8';
 
 function App() {
     return (
-        <div className="App">
-
-            <HookArray/>
-
+        <div style={{marginTop:'100px'}} className="App">
+            <HookCounter/>
         </div>);
 }
 export default App;
